@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Radio_aplikacija</string>
+    <string name="navigation_drawer_open">Izvēlēties staciju</string>
+    <string name="navigation_drawer_close">Aizvērt izvēlni</string>
+    <string name="nav_header_title">Latvijas labākās radio stacijas</string>
+    <string name="action_settings">Iestatījumi</string>
+
+    <string name="menu_home">Sākums</string>
+    <string name="ehr">EHR</string>
+    <string name="lr2">LR2</string>
+    <string name="radio_tev">Radio TEV</string>
+</resources>
